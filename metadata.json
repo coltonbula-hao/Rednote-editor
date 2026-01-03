@@ -1,0 +1,5 @@
+{
+  "name": "多平台内容生产Agent (Gemini 3)",
+  "description": "一个多平台内容重组 Agent，利用 Gemini 3.0 Flash 将 PDF、文本或 YouTube 视频转化为结构化的博客文章、小红书文案和 AI 信息图。",
+  "requestFramePermissions": []
+}
